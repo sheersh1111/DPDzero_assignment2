@@ -2,7 +2,7 @@
 
 First to run this program you need to Install Node js using 
 
-#npm init (in the respective folder)
+# npm init (in the respective folder)
 
 add suitable package name and continue;
 you can add entry point to be server.js
@@ -11,12 +11,12 @@ https://user-images.githubusercontent.com/106367218/221770581-899c8d5c-0c56-45ce
 
 Then run the following Server.js code give using command:
 
-#node server.js
+# node server.js
 
 it will generate the desired json file for cost per day of different channels.
 then,
 
-#server.js
+# server.js
 
 In this file, 
 first I am extracting key of both date and other keys(which are sms,email,whatsapp and ivr)

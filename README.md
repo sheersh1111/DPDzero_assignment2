@@ -6,8 +6,8 @@ First to run this program you need to Install Node js using
 
 add suitable package name and continue;
 you can add entry point to be server.js
+![Screenshot (6)](https://user-images.githubusercontent.com/106367218/221770581-899c8d5c-0c56-45ce-b226-a56473fbb429.png)
 
-https://user-images.githubusercontent.com/106367218/221770581-899c8d5c-0c56-45ce-b226-a56473fbb429.png
 
 Then run the following Server.js code give using command:
 

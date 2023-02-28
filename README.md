@@ -34,3 +34,6 @@ const result = Object.entries(totalCost).map(([date, costs]) => ({ ...costs, dat
 
 then result is written to a json file.
 fs.writeFileSync('total-cost-per-day.json', JSON.stringify(result, null, 2));
+
+
+# I have already attached the file ,but you can run by following the command above and get it for yourself.
